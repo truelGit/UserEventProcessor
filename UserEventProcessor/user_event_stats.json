@@ -1,0 +1,12 @@
+[
+  {
+    "UserId": 123,
+    "EventType": "click",
+    "Count": 1
+  },
+  {
+    "UserId": 124,
+    "EventType": "click",
+    "Count": 1
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "q+AdVUTx+EM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivich\\RiderProjects\\UserEventProcessor\\UserEventProcessor\\UserEventProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivich\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\ivich\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512",
+    "C:\\Users\\ivich\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ivich\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ivich\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512",
+    "C:\\Users\\ivich\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
